@@ -1,6 +1,6 @@
 # styledocco-generator
 
-basic files for starting with styleguide driven development e.g. during early prototype stages
+basic files for starting with styleguide driven development with styledocco http://jacobrask.github.io/styledocco/ and grunt
 
 ## Install
 
@@ -12,7 +12,7 @@ run in the clone folder
 
     npm install
 
-edit the scss files, run
+edit the scss files and add comments (see _buttons.scss), run
 
     grunt
 
