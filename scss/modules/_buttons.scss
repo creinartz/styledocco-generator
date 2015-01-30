@@ -1,0 +1,50 @@
+/*
+ # Buttons Basic Setup
+ */
+
+/* button
+
+    <button class="btn">basic Button</button>
+*/
+
+.btn {
+    border: 1px solid $border-color;
+    outline: 0;
+    font-size: 110%;
+    &:hover, &:active, &:focus {
+        //stylez goe here
+    }
+}
+
+/* button xlarge
+
+    <button class="btn btn-xlarge">basic Button xlarge</button>
+*/
+.btn-xlarge {
+    font-size: 180%;
+}
+
+/* button large
+
+    <button class="btn btn-large">basic Button large</button>
+*/
+.btn-large {
+    font-size: 150%;
+}
+
+/* button small
+
+    <button class="btn btn-small">basic Button small</button>
+*/
+.btn-small {
+    font-size: 90%;
+}
+
+/* button xsmall
+
+    <button class="btn btn-xsmall">basic Button xsmall</button>
+*/
+
+.btn-xsmall {
+    font-size: 90%;
+}

@@ -1,0 +1,37 @@
+/*
+## Global variables
+ */
+
+/*
+### font
+*/
+$font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !default;
+
+// We use this to control font-smoothing
+$font-smoothing: antialiased !default;
+
+/*
+### Basic text styles
+*/
+$font-size-base: 0.9em !default;
+$line-height-base: 1.5em !default;
+
+$text: #333 !default;
+$text-light: #c9c7c7 !default;
+$text-medium: #757575 !default;
+$white: #fff !default;
+
+/*
+### basic spacing
+*/
+$gutter: 30px !default;
+$gutter-half: ($gutter / 2) !default; //15px
+$gutter-third:($gutter / 3) !default; //10px
+$gutter-sixt: ($gutter / 6) !default; //5px
+
+/*
+### border
+*/
+$border-color: #e2e2e2 !default;
+$border-radius: 3px !default;
+

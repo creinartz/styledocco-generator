@@ -1,0 +1,11 @@
+/*
+ * here will go the sass config/imports
+ */
+
+//general setup - need to go first
+@import "foundation/globals";
+@import "foundation/normalize";
+@import "foundation/base";
+
+// project basic modules
+@import 'modules/buttons';
